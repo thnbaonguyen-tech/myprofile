@@ -53,7 +53,7 @@ export const About: React.FC = () => {
             <div className="w-11 h-11 rounded-full overflow-hidden border-2 border-blue-500 shadow-xs shrink-0 bg-slate-100">
               <img 
                 src={PERSONAL_INFO.avatarUrl} 
-                alt="Bảo Nguyễn" 
+                alt="Bảo Nguyễn - Web Developer" 
                 className="w-full h-full object-cover object-top" 
               />
             </div>

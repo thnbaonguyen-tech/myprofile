@@ -56,7 +56,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   tagline: "Thiết kế website hiện đại – nhanh – đẹp – phù hợp với nhu cầu cá nhân và kinh doanh.",
   shortBio: "Nhận thiết kế website theo yêu cầu cho cá nhân, học sinh/sinh viên, cửa hàng nhỏ, người bán hàng online và doanh nghiệp nhỏ.",
   fullBio: "Mình là Bảo Nguyễn, một bạn trẻ yêu thích công nghệ và lập trình web. Mình đang phát triển kỹ năng thiết kế và xây dựng website, đồng thời nhận thực hiện các website cá nhân, landing page và website giới thiệu theo nhu cầu.",
-  avatarUrl: "/src/assets/images/bao_nguyen_real.png",
+  avatarUrl: "/images/bao-nguyen.png",
 };
 
 export const HIGHLIGHT_STATS = [
